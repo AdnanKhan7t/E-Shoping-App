@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Metro Enterprises</string>
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_about_info">About_Info</string>
+    <string name="large_text">
+         "METRO ENTERPRISES.\n\n"
+        "WE MANUFACTURE: - T.SHIRTS, CAPS AND\n ""UNIFORMS \n"
+        "In Bulk Quantity For Corporates In Mumbai and Gulf Since A Long Time With Best Quality As Per Your Color, Design, Budget and Size With Ur Logo Font In Screen Printing Or Embroidery and Emboss.\n\n"
+       "We are manufacturer of all types of soft luggage, and leather items SINCE 198O."
+        "Detail Like- Trolley bag, Air bag, Executive Bag, Wallet, Ladies Bag\n"
+
+        "In Material Like Leather, Nylon, Matty, Canvas or as  per your choice.\n"
+        "Manufacture specialist of offshore tools bag.\n"
+        "In strong material as per your color and design. Printing or embroidery as your company font logo."
+        "Dealing in all items for corporate promotional products.\n"
+    </string>
+</resources>

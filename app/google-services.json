@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562325295371",
+    "firebase_url": "https://metroenterprises-deaec-default-rtdb.firebaseio.com",
+    "project_id": "metroenterprises-deaec",
+    "storage_bucket": "metroenterprises-deaec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562325295371:android:8f9077137a03c41318520e",
+        "android_client_info": {
+          "package_name": "com.MetroEnterprises.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562325295371-gk0uridolq9pfem3v5bs5hce3ub5hd0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.MetroEnterprises.shopping",
+            "certificate_hash": "2432b95651e9bde98d1e3bf6e2aeecdd4b1260cd"
+          }
+        },
+        {
+          "client_id": "562325295371-lv5scb5av3596udh3ugvj70p7g09uogt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyTljfihmC7_dBOJPGAvTt8VDXJ2Oq13s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562325295371-lv5scb5av3596udh3ugvj70p7g09uogt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
